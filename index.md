@@ -72,9 +72,6 @@ ETH: _0x957256f9B16DB3C22fC9eA7AEcfbE758F02794A6_
 LTC: _MJSQ9Gy1jRgPUKXMaV371noJn572U7wQKh_
 
 
-This page is maintained by [reyesvicente](https://www.github.com/reyesvicente)
-
-Hosted on GitHub Pages -- Theme by [Modernist Theme](https://github.com/pages-themes/modernist)
 <section class="footer">
 <p class="credits">
 Copyright 2018 @ Soul Heist Music.
