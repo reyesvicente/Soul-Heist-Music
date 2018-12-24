@@ -1,4 +1,4 @@
-# Soul Heist Music Bandcamp Codes for Unlimited Streaming
+
 #### Date Created: Dec-24-2018
 #### Album: **The Eyes Are Useless When The Mind Is Blind**
 #### Wordwide Release: Jan-05-2019
