@@ -63,15 +63,16 @@ See me on:
 [Instagram](https://instagram.com/icen.reyes)
 
 ###### Donations are accepted via Paypal and other Cryptocurrencies
- ###### [Paypal](https://paypal.me/vicentegreyes)
- ###### BTC: _3KUPn8nznQoFk1AnLGrx938SxoAXqkMeGq_
- ###### ETH: _0x957256f9B16DB3C22fC9eA7AEcfbE758F02794A6_
- ###### LTC: _MJSQ9Gy1jRgPUKXMaV371noJn572U7wQKh_
+[Paypal](https://paypal.me/vicentegreyes)
+BTC: _3KUPn8nznQoFk1AnLGrx938SxoAXqkMeGq_
+ETH: _0x957256f9B16DB3C22fC9eA7AEcfbE758F02794A6_
+LTC: _MJSQ9Gy1jRgPUKXMaV371noJn572U7wQKh_
 
+
+This page is maintained by [reyesvicente](https://www.github.com/reyesvicente)
 <section class="footer">
 <p class="credits">
 Copyright 2018 @ Soul Heist Music.
 </p>
-This page is maintained by [reyesvicente](https://github.com/reyesvicente)
 
     
