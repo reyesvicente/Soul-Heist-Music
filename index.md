@@ -52,13 +52,7 @@ See me on:
 		
 [LinkedIn](https://www.linkedin.com/in/vicentereyes0888/)
 
-[Behance](https://www.behance.net/icenreyes773d)
-
-[SoundCloud](https://soundcloud.com/soulheistph)
-
 [Twitter](https://twitter.com/icen814)
-
-[Fiverr](https://www.fiverr.com/enchong14)
 
 [Instagram](https://instagram.com/icen.reyes)
 
