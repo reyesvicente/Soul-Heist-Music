@@ -68,7 +68,7 @@ LTC: _MJSQ9Gy1jRgPUKXMaV371noJn572U7wQKh_
 
 <section class="footer">
 <p class="credits">
-Copyright 2018 @ Soul Heist Music.
+Copyright 2019 @ Soul Heist Music.
 </p>
 
     
