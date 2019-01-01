@@ -63,7 +63,7 @@ BTC: _3KUPn8nznQoFk1AnLGrx938SxoAXqkMeGq_
 
 ETH: _0x957256f9B16DB3C22fC9eA7AEcfbE758F02794A6_
 
-LTC: _MJSQ9Gy1jRgPUKXMaV371noJn572U7wQKh_
+
 
 
 <section class="footer">
