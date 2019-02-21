@@ -50,7 +50,7 @@ See me on:
 [Instagram](https://instagram.com/icen.reyes)
 
 
-![Buy me cofee?](https://www.buymeacoffee.com/YtgbpiTdS)
+![Buy me coffee?](https://www.buymeacoffee.com/YtgbpiTdS)
 <section class="footer">
 <p class="credits">
 Copyright 2019 @ Soul Heist Music.
