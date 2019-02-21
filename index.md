@@ -3,17 +3,17 @@
 #### Album: **The Eyes Are Useless When The Mind Is Blind**
 #### Wordwide Release: Jan-05-2019
 
-#### Quantity: 100
+#### Quantity: ~~100~~ 95
 
 # [Redeem Here](http://soulheistmusic.bandcamp.com/yum)
 
 
 **Code**  | **Status**	| **Code**  	| **Status** | **Code**		| **Status** | **Code**		| **Status**
 ------------- | -------------   |------------- | ------------- | ------------- | ----------------- | ------------- | -----------------
-3xuz-yqz4     |			|uzn6-64tb | | t6ya-kcma     | |zmtc-jezv |
-wq5k-79ym     |			|vyak-yq3x | |2yug-6hyb     | |n8ze-y389 |
-c87k-vzn6     |			|fk6t-7zcq | | at5y-yv2x     | |5k29-bx7z |
-pul2-6tvk     |			|lny2-v64t | |6ljm-kf98     | |gymk-cqp6 |
+~~3xuz-yqz4~~     | **USED**|~~uzn6-64tb~~ |**USED** | t6ya-kcma     | |zmtc-jezv |
+wq5k-79ym     |			|vyak-yq3x | |~~2yug-6hyb~~     | **USED** |n8ze-y389 |
+c87k-vzn6     |			|~~fk6t-7zcq~~ |**USED** | ~~at5y-yv2x~~     | |5k29-bx7z |
+pul2-6tvk     |			|lny2-v64t | |6ljm-kf98     | |~~gymk-cqp6~~ |**USED**
 8lpa-k768     |			|qak5-6gjb | | kcg7-6q6n     ||y28k-x8by |
 ts9b-6v9n     |			|g7yg-ku9w | |zjux-yz8j     | |tmk2-j2lf |
 6kay-wve6     |			|3wuz-gvk4 | |n9lp-7z7k     | |tgya-kdva |
