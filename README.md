@@ -45,7 +45,7 @@ See me on:
 		
 [LinkedIn](https://www.linkedin.com/in/vicentereyes0888/)
 
-[Twitter](https://twitter.com/icen814)
+[Twitter](https://twitter.com/highcenburg)
 
 [Instagram](https://instagram.com/icen.reyes)
 
